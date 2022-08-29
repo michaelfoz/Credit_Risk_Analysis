@@ -31,5 +31,4 @@ The purpose of this assignment is to evaluate a credit card dataset (LoanStats_2
 
 - Easy Ensemble AdaBoost (Classifier) model in [credit_risk_ensemble.ipynb](https://github.com/michaelfoz/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb): precision score was 0.9; recall was 0.92; F1 score was 0.16--conclusive that the F1 score is skewed by the low precision score.
 
-
-
+### In conclusion, none of the machine learning models yielded sufficent results.
