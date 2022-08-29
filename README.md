@@ -5,4 +5,6 @@ The dataset titled "LoanStats_2019Q1.csv" was too large to upload.
 
 (The dataset is found in the zip file folder: [Module-17-Challenge-Resources.zip](https://2u-data-curriculum-team.s3.amazonaws.com/dataviz-online/module_17/Module-17-Challenge-Resources.zip).)
 
-### Deliverables 1 and 2 performed in: 
+### Deliverables 1 and 2 performed in [credit_risk_analysis.ipynb](https://github.com/michaelfoz/Credit_Risk_Analysis/blob/main/credit_risk_resampling.ipynb)
+
+### Deliverable 3 performed inn [credit_risk_ensemble.ipynb](https://github.com/michaelfoz/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb)
