@@ -14,3 +14,5 @@ The dataset titled "LoanStats_2019Q1.csv" was too large to upload.
 (Deliverable 3 performed in [credit_risk_ensemble.ipynb](https://github.com/michaelfoz/Credit_Risk_Analysis/blob/main/credit_risk_ensemble.ipynb).)
 
 ## Deliverable 4 (Written Report on the Credit Risk Analysis):
+
+The purpose of this assignment is to evaluate a credit card dataset (LoanStats_2019Q1.csv) in predicting credit risks. In the previous Module (Module 16), we found that Amazon reviews/results can be biased. In this Module (17), however, we apply different techniques to test the data as well as compoaring machine learning models. Doing so helps us reach an accurate-unbiased analysis, which is important when dealing with credit risk.
